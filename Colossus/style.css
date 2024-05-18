@@ -4,3 +4,13 @@ body {
     background: rgb(35,123,140);
     background: radial-gradient(circle, rgba(35,123,140,1) 5%, rgba(112,167,209,1) 78%, rgba(141,198,235,1) 84%, rgba(142,226,255,1) 89%, rgba(158,176,247,1) 92%);
 }
+
+#imgbiber{
+    width: 50%;
+    height: 50%;
+}
+
+a{
+    color: black;
+    font-style: bold;
+}
